@@ -1,0 +1,31 @@
+.icons{margin-left: 150px;}
+
+.cabeçalho{background-color: #ccb78f;
+width: 2053px;
+height: 213px;}
+
+.cabeçalho a, span{font-family: "Montserrat", sans-serif;
+font-size: 13px;
+letter-spacing: 1px;
+text-transform: uppercase;
+margin-top: 400px;}
+
+.cabeçalho h1{font-family: "Poppins", sans-serif;
+font-size: 2.5rem;
+font-weight: 800;
+margin-top: 70px;
+margin-left: 350px;}
+
+.img-collection{height: 1174px;
+width: 1024.91px;
+display: flex;
+flex-direction: column;}
+
+.img-collection img{height: 250px;
+width: 392.03px;
+object-fit: cover;
+padding: 1.8rem;}
+.fotos1{display: flex;}
+.fotos2{display: flex;}
+.fotos3{display: flex;}
+.fotos4{display: flex;}
